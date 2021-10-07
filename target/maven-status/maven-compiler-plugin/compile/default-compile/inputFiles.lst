@@ -1,0 +1,16 @@
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/repository/BookRepo.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/repository/PublisherRepo.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/services/BookServices.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/controllers/AuthorController.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/models/Book.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/models/Author.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/models/Publisher.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/repository/AuthorRepo.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/models/Order.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/services/AuthorService.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/models/OrderItems.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/BooksJpaApplication.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/models/Customer.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/controllers/BookController.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/services/PublisherService.java
+/var/lib/jenkins/workspace/giriteja/src/main/java/com/epsilon/BooksJpa/controllers/PublisherController.java
